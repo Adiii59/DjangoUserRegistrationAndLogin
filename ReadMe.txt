@@ -11,7 +11,7 @@ All user details and passwords are stored in database and can be viewd from the 
 Database in which details are stored: User Profiles
 
 ***Please make sure the following packages are installed before running the webserver!***
-(pip install <package_name>
+(pip install <package_name>)
 	1. django-phonenumber-field
 	2. phonenumbers
 	3. babel
