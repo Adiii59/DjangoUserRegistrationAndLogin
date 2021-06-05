@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Adiii59/DjangoUserRegistrationAndLogin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the web application that lets users register into your website and user their registered details to log in.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
